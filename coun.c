@@ -1,3 +1,10 @@
+/*
+ * Execution : gcc coun.c
+ * compilation : ./a.out
+ * Program for time complexity Analysis of Bubble sort
+ * @vasu , 1910990305 , 26/07/2021
+ * Day2_Coding_Assignment.
+ */
 #include <stdio.h>
 #include <stdlib.h> // standard library
 #include <sys/time.h> // library including time functions
